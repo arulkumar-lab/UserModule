@@ -24,6 +24,17 @@ unit and integration tests are run on pressing Enter in the command terminal; yo
 
 ## Specification examples
 
+```http://localhost:9081/jwt/```
+
+Health: ```http://localhost:9081/health/```
+
+```http://localhost:9081/openapi/```
+
+Swagger UI: ```http://localhost:9081/openapi/ui/```
+
+```http://localhost:9081/metrics/```
+
+```http://localhost:9081/```
 
 
 

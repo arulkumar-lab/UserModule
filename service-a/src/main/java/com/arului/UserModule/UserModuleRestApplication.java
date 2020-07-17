@@ -6,6 +6,6 @@ import javax.ws.rs.core.Application;
 /**
  *
  */
-@ApplicationPath ("/data")
+@ApplicationPath ("/user-service-api")
 public class UserModuleRestApplication extends Application {
 }

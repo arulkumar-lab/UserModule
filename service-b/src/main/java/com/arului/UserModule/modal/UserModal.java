@@ -1,6 +1,9 @@
 package com.arului.UserModule.modal;
 
-public class User {
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
+public class UserModal {
     private String id;
     private String firstName;
     private String lastName;
