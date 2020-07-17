@@ -20,5 +20,8 @@ jobs:
       uses: actions/setup-java@v1
       with:
         java-version: 1.8
-    - name: Build with Maven
+    - name: Build service-a package with Maven
       run: mvn -B package --file service-a/pom.xml
+      
+    - name: Build service-b package with Maven
+      run: mvn -B package --file service-b/pom.xml
