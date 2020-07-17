@@ -1,4 +1,5 @@
 # MicroProfile generated Applications
+![Java CI with Maven](https://github.com/arulkumar-lab/UserModule/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 MicroProfile Starter has generated 2 MicroProfile applications for you.
 
